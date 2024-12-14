@@ -6,8 +6,7 @@ if it doesn't and you have to adjust it you may face some issues when it comes t
 
 in order to move between the items and software options you have to use the arrow keys and 'enter' to access that item/option
 you can always press 'esc' key to return to the previous page
-when you buy items, a receipt.txt file will be created that contains all of the purchased items, you can't pick the same item twice since only 
-item is unique in the store
+when you buy items, a receipt.txt file will be created that contains all of the purchased items, you can't pick the same item twice since each car is unique
 
 everything else is explained in the header file in the form of comments
 
